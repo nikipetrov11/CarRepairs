@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+    background-image: url('/static/images/background.png'); /* Пътят към вашия файл с изображението */
